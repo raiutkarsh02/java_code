@@ -1,1 +1,1 @@
-Contant my JAVA program
+Contant my JAVA project
